@@ -27,3 +27,17 @@ Data frame contains 26,024,289 rows and 4 columns
 ![fig3.png](https://github.com/AjaniBenoit/Movies-ETL/blob/main/fig3.png)
 
 ### Transforming 
+
+#### Wikipedia Movie JSON file 
+
+Data fram cleaned and transformed. Data frame now contains 22 columsns 
+
+![fig4.png](https://github.com/AjaniBenoit/Movies-ETL/blob/main/fig4.png)
+
+![fig5.png](https://github.com/AjaniBenoit/Movies-ETL/blob/main/fig5%20.png)
+
+#### Merged Data Frame 
+
+Merged Wikipedia, KAGGLE Movies and KAGGLE Rating data frame. New data frame contains 31 columns 
+
+![fig7.png](https://github.com/AjaniBenoit/Movies-ETL/blob/main/fig7.png)
