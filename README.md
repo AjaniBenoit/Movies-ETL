@@ -41,3 +41,9 @@ Data fram cleaned and transformed. Data frame now contains 22 columsns
 Merged Wikipedia, KAGGLE Movies and KAGGLE Rating data frame. New data frame contains 31 columns 
 
 ![fig7.png](https://github.com/AjaniBenoit/Movies-ETL/blob/main/fig7.png)
+
+### Loading 
+
+#### Exporting to Database 
+
+![fig8.png](https://github.com/AjaniBenoit/Movies-ETL/blob/main/fig8.png)
