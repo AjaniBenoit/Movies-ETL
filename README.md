@@ -47,3 +47,17 @@ Merged Wikipedia, KAGGLE Movies and KAGGLE Rating data frame. New data frame con
 #### Exporting to Database 
 
 ![fig8.png](https://github.com/AjaniBenoit/Movies-ETL/blob/main/fig8.png)
+
+#### Verifying Tables Created in pgAdmin
+
+##### Movie table 
+
+Table contains 6,052 rows.
+
+![Fig9.png](https://github.com/AjaniBenoit/Movies-ETL/blob/main/Fig9.png)
+
+###### Rating table 
+
+Table contains 2,048,578 rows. Rating table should contain 26,024,289 rows. The table was not correctly created. 
+
+![Fig10.png](https://github.com/AjaniBenoit/Movies-ETL/blob/main/Fig10.png)
